@@ -69,7 +69,7 @@ Investment-Risk-Volatility-Monitor
 ---
 
 ## 📎 Author
-Bhuvanasurya  
+Sappati Bhuvana Surya Sai Sudha
 Data Analytics Intern – Zaalima Development Pvt. Ltd.
 
 ---
