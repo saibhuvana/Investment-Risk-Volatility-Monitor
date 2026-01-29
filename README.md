@@ -10,21 +10,21 @@ The project is divided into two major phases:
 
 ---
 
-## 🧩 Project Structure
+##Project Structure: Investment-Risk-Volatility-Monitor
 
-Investment-Risk-Volatility-Monitor
-│
-├── Week_5_Data_Cleaning
-│   ├── Data cleaning notebook
-│   ├── Cleaned dataset output
-│
-├── Week_6_Visualization
-│   ├── EDA & visualization notebook
-│
-├── dataset
-│   └── Raw finance dataset
-│
----
+Week_5_Data_Cleaning
+
+Data cleaning notebook
+
+Cleaned dataset output (CSV)
+
+Week_6_Visualization
+
+Exploratory Data Analysis (EDA) and visualization notebook
+
+Dataset
+
+Raw finance dataset (Excel file)
 
 ## 🧪 Week 5 – Data Cleaning (Pandas)
 
