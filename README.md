@@ -70,9 +70,3 @@ Investment-Risk-Volatility-Monitor
 
 ## 📎 Author
 Sappati Bhuvana Surya Sai Sudha
-Data Analytics Intern – Zaalima Development Pvt. Ltd.
-
----
-
-## 📌 Note
-This project was completed as part of the Data Analytics Internship Program and follows industry-standard data analysis workflows.
