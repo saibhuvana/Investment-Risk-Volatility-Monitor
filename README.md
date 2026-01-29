@@ -1,7 +1,7 @@
 
 # Investment Risk & Volatility Monitor (AlphaPulse)
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing financial market data to understand price trends, volatility, and risk exposure using Python.
 
 The project is divided into two major phases:
@@ -23,7 +23,7 @@ Investment-Risk-Volatility-Monitor
   - Raw finance dataset (Excel file)
 
 
-## 🧪 Week 5 – Data Cleaning (Pandas)
+## Week 5 – Data Cleaning (Pandas)
 
 ### Key Activities:
 - Handling missing values
@@ -38,7 +38,7 @@ Investment-Risk-Volatility-Monitor
 
 ---
 
-## 📊 Week 6 – Exploratory Data Analysis (EDA)
+## Week 6 – Exploratory Data Analysis (EDA)
 
 ### Visualizations Created:
 - Line chart for price trend analysis
@@ -50,7 +50,7 @@ Investment-Risk-Volatility-Monitor
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -60,7 +60,7 @@ Investment-Risk-Volatility-Monitor
 
 ---
 
-## 🎯 Key Insights
+## Key Insights
 - Identified long-term market trends
 - Measured volatility using return distributions
 - Analyzed correlations between financial indicators
@@ -68,5 +68,5 @@ Investment-Risk-Volatility-Monitor
 
 ---
 
-## 📎 Author
+## Author
 Sappati Bhuvana Surya Sai Sudha
