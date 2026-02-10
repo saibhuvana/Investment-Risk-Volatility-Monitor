@@ -100,16 +100,16 @@ To estimate potential future risk exposure under random market conditions.
 var_results.csv
 
 ## Additional Outputs Generated
-week5_finance_cleaned.csv
-rolling_volatility.csv
-var_results.csv
+- week5_finance_cleaned.csv
+- rolling_volatility.csv
+- var_results.csv
 
 ## Key Financial Metrics Implemented
-Daily Log Returns
-Portfolio Returns
-Rolling Volatility (30-Day)
-Monte Carlo Simulation (10,000 iterations)
-Value at Risk (VaR 95%)
+- Daily Log Returns
+- Portfolio Returns
+- Rolling Volatility (30-Day)
+- Monte Carlo Simulation (10,000 iterations)
+- Value at Risk (VaR 95%)
 
 ---
 
@@ -144,27 +144,27 @@ To transform quantitative risk analysis into an interactive financial dashboard 
 
 ## Tools & Technologies (Extended)
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Tableau
-Google Colab
-yfinance API
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Tableau
+- Google Colab
+- yfinance API
 
 ---
 
 ## Project Architecture
-Raw Data (Excel)
-        ↓
-Data Cleaning (Week 5 - Pandas)
-        ↓
-EDA & Visualization (Week 6)
-        ↓
-Risk Modeling & Simulation (Week 7)
-        ↓
-Business Dashboard (Week 8 - Tableau)
+- Raw Data (Excel)
+-        ↓
+- Data Cleaning (Week 5 - Pandas)
+-        ↓
+- EDA & Visualization (Week 6)
+-        ↓
+- Risk Modeling & Simulation (Week 7)
+-        ↓
+- Business Dashboard (Week 8 - Tableau)
 
 ---
 
@@ -179,12 +179,12 @@ AlphaPulse enables:
 ---
 
 ## Final Status
-Data Cleaning Complete
-Exploratory Analysis Complete
-Risk Modeling Implemented
-Monte Carlo Simulation Integrated
-Value at Risk Calculated
-Interactive Tableau Dashboard Developed
+- Data Cleaning Complete
+- Exploratory Analysis Complete
+- Risk Modeling Implemented
+- Monte Carlo Simulation Integrated
+- Value at Risk Calculated
+- Interactive Tableau Dashboard Developed
 
 ## Author
 Sappati Bhuvana Surya Sai Sudha
