@@ -67,35 +67,35 @@ Investment-Risk-Volatility-Monitor
 - Interpreted market sentiment using profit/loss ratio
 
 ---
+
 ## Week 7 – Risk Modeling & Portfolio Analytics
-Objective
+## Objective
 To implement advanced financial risk metrics and simulate portfolio performance under uncertainty.
 
 ## Key Activities
-1. Portfolio Return Calculation
+## Portfolio Return Calculation
 -	Computed daily log returns
 -	Applied equal weight portfolio assumption
 -	Created aggregated portfolio return metric
-2. Rolling Volatility (30-Day)
-•	Calculated 30-day moving standard deviation
-•	Measured short-term market uncertainty
-•	Identified volatility spikes during unstable periods
 
+## Rolling Volatility (30-Day)
+- Calculated 30-day moving standard deviation
+-	Measured short-term market uncertainty
+-	Identified volatility spikes during unstable periods
 ## Output:
-rolling_volatility.csv
-3. Monte Carlo Simulation (10,000 Runs)
-•	Simulated 1-year future portfolio performance
-•	Used historical mean & standard deviation
-•	Generated probability distribution of returns
-•	Ensured statistical stability using large sample size
+  rolling_volatility.csv
 
+## Monte Carlo Simulation (10,000 Runs)
+- Simulated 1-year future portfolio performance
+-	Used historical mean & standard deviation
+-	Generated probability distribution of returns
+-	Ensured statistical stability using large sample size
 ## Purpose:
 To estimate potential future risk exposure under random market conditions.
 
-4. Value at Risk (VaR – 95%)
+## Value at Risk (VaR – 95%)
 •	Calculated 5th percentile of simulated returns
 •	Estimated maximum expected loss at 95% confidence level
-
 ## Output:
 var_results.csv
 
@@ -119,27 +119,27 @@ To transform quantitative risk analysis into an interactive financial dashboard 
 
 ## Dashboard Components
 
-1. Portfolio Return Trend
-•	Line chart showing daily portfolio performance
-•	Highlights profit/loss cycles
+## Portfolio Return Trend
+- Line chart showing daily portfolio performance
+- Highlights profit/loss cycles
 
-2. Rolling Volatility Chart
-•	Visualizes market uncertainty
-•	Identifies high-risk periods
+## Rolling Volatility Chart
+- Visualizes market uncertainty
+- Identifies high-risk periods
 
-3. Value at Risk (VaR) KPI Card
-•	Displays downside risk percentage
-•	Quick risk exposure indicator
+## Value at Risk (VaR) KPI Card
+-	Displays downside risk percentage
+-	Quick risk exposure indicator
 
-4. Correlation Visualization
-•	Heatmap to analyze asset relationships
-•	Helps evaluate diversification strategy
-•	Dashboard Features
-•	Interactive Date Filters
-•	Percentage Formatting
-•	Clean Professional Layout
-•	Cross-filtering between visuals
-•	Dynamic updates without lag
+## Correlation Visualization
+-	Heatmap to analyze asset relationships
+-	Helps evaluate diversification strategy
+-	Dashboard Features
+-	Interactive Date Filters
+-	Percentage Formatting
+-	Clean Professional Layout
+-	Cross-filtering between visuals
+-	Dynamic updates without lag
 
 
 ## Tools & Technologies (Extended)
@@ -170,11 +170,11 @@ Business Dashboard (Week 8 - Tableau)
 
 ## Business Impact
 AlphaPulse enables:
-•	Portfolio risk monitoring
-•	Downside loss estimation (VaR)
-•	Volatility tracking
-•	Diversification analysis
-•	Interactive financial decision support
+-	Portfolio risk monitoring
+-	Downside loss estimation (VaR)
+-	Volatility tracking
+-	Diversification analysis
+-	Interactive financial decision support
 
 ---
 
