@@ -73,9 +73,9 @@ To implement advanced financial risk metrics and simulate portfolio performance 
 
 ## Key Activities
 1. Portfolio Return Calculation
-•	Computed daily log returns
-•	Applied equal weight portfolio assumption
-•	Created aggregated portfolio return metric
+-	Computed daily log returns
+-	Applied equal weight portfolio assumption
+-	Created aggregated portfolio return metric
 2. Rolling Volatility (30-Day)
 •	Calculated 30-day moving standard deviation
 •	Measured short-term market uncertainty
